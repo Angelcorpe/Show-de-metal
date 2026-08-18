@@ -1,37 +1,1066 @@
 [
   {
-    "banda": "[PLACEHOLDER] Banda Exemplo Rock",
-    "logo_url": "https://via.placeholder.com/200x200.png?text=Banda+Exemplo",
+    "banda": "Banda Live 80 + David Bowie Project",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1787025640/scraper/production/22065.jpg",
+    "data": "2026-08-20",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/bandalive80-davisbowie-manifesto"
+  },
+  {
+    "banda": "Banda Live 80",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196701/scraper/production/21817.jpg",
+    "data": "2026-08-20",
+    "local": "Manifesto - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/bandalive80-manifesto-20-08"
+  },
+  {
+    "banda": "Casa Lab Rock Night",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196708/scraper/production/21819.jpg",
+    "data": "2026-08-21",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/casalabrocknight"
+  },
+  {
+    "banda": "Covers: Black Sabbath e Whitesnake",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196710/scraper/production/21821.jpg",
+    "data": "2026-08-21",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacksabbath-whitesnake-manifesto"
+  },
+  {
+    "banda": "Rockphonic",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196711/scraper/production/21822.jpg",
+    "data": "2026-08-21",
+    "local": "Bar Charles Edward - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/rockphonic"
+  },
+  {
+    "banda": "Tributo Legião Urbana",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196716/scraper/production/21823.jpg",
+    "data": "2026-08-21",
+    "local": "a confirmar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/tributolegiaourbana-21-08"
+  },
+  {
+    "banda": "Bullet Bane - Lançamento 'O Agora Que Cobra Viver'",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196876/scraper/production/21885.jpg",
+    "data": "2026-08-21",
+    "local": "Fabrique Club - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/bullet-bane-lancamento-o-agora-que-cobra-viver-em-sao-paulo/details"
+  },
+  {
+    "banda": "Covers: Iron Maiden e Metallica",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196723/scraper/production/21826.jpg",
+    "data": "2026-08-22",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/coversironmaidenmetallica"
+  },
+  {
+    "banda": "Cachimbongfire + Briga de Pombo na Casa Lab",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196720/scraper/production/21824.jpg",
+    "data": "2026-08-22",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/cachimbongfirebrigadepombo-casalab"
+  },
+  {
+    "banda": "Domingueira K7 & Os Valvulados",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196722/scraper/production/21825.jpg",
+    "data": "2026-08-22",
+    "local": "Espaço Villa do Som - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/domingueirak7-osvalvulados-22-08"
+  },
+  {
+    "banda": "Sabadão K7 & Os Valvulados",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786593665/scraper/production/21970.jpg",
+    "data": "2026-08-22",
+    "local": "Espaço Villa do Som - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/sabadaok7-osvalvulados-22-08"
+  },
+  {
+    "banda": "Undercover Fest – Rock In Sampa",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780372967/scraper/production/21522.jpg",
+    "data": "2026-08-22",
+    "local": "Jai Club - São Paulo",
+    "link_ingresso": "https://www.sympla.com.br/evento/undercover-fest-rock-in-sampa/3449063"
+  },
+  {
+    "banda": "Tributo Forfun - 15 Anos 'Alegria Compartilhada' no Hangar 110",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196892/scraper/production/21898.jpg",
+    "data": "2026-08-22",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32772/tributo-forfun-15-anos-alegria-compartilhada-no-hangar-110"
+  },
+  {
+    "banda": "Special Queen",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777781137/scraper/production/20843.jpg",
+    "data": "2026-08-22",
+    "local": "Shopping Jardim Sul - São Paulo",
+    "link_ingresso": "https://www.sympla.com.br/evento/special-queen/3409291"
+  },
+  {
+    "banda": "Kiss (Danger) + Scorpions (Dynamite)",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196728/scraper/production/21827.jpg",
+    "data": "2026-08-22",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/kissdangerscorpionsdynamite"
+  },
+  {
+    "banda": "Samir - J4MPA - Pablo Vermell",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1787025641/scraper/production/22066.jpg",
+    "data": "2026-08-23",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/samirj4mpapablovermell-casalab"
+  },
+  {
+    "banda": "Rock BR 80'",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780459367/scraper/production/21546.jpg",
+    "data": "2026-08-23",
+    "local": "Teatro Jardim Sul - São Paulo",
+    "link_ingresso": "https://www.sympla.com.br/evento/rock-br-80/3451719"
+  },
+  {
+    "banda": "Banda Live 80",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196739/scraper/production/21828.jpg",
+    "data": "2026-08-27",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/bandalive80-manifesto-27-08"
+  },
+  {
+    "banda": "Lyra And The Dreamers + Juniper e Jhony Brasil + Jardim Depressa",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786420850/scraper/production/21934.jpg",
+    "data": "2026-08-28",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/lyraandthedreamersjuniperjhonybrasiljardimdepressa"
+  },
+  {
+    "banda": "Raimundos 30 anos",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196741/scraper/production/21829.jpg",
+    "data": "2026-08-28",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/raimundos30anos"
+  },
+  {
+    "banda": "RUSH (2113)",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196745/scraper/production/21831.jpg",
+    "data": "2026-08-28",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/rush2113-rooftop"
+  },
+  {
+    "banda": "Memphis May Fire e Blessthefall",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1772856226/scraper/production/18932.jpg",
+    "data": "2026-08-29",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/memphismayfire-blessthefall-sp"
+  },
+  {
+    "banda": "Covers: Sleep Token - Linkin Park - Bad Omens",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196748/scraper/production/21832.jpg",
+    "data": "2026-08-29",
+    "local": "Manifesto - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/coverssleeptokenlinkinparkbadomens"
+  },
+  {
+    "banda": "Indie Experience - Na Rua Augusta",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196752/scraper/production/21833.jpg",
+    "data": "2026-08-29",
+    "local": "Augusta Hi Fi - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/indieexperiencenaruaaugusta"
+  },
+  {
+    "banda": "Márcio Sanches Apresenta Classical Queen + Radiotunes",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196757/scraper/production/21834.jpg",
+    "data": "2026-08-29",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/marciosachesclassicalqueenradiotunes"
+  },
+  {
+    "banda": "Gloria",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196890/scraper/production/21897.jpg",
+    "data": "2026-08-29",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32810/gloria"
+  },
+  {
+    "banda": "Children Rock Fest - Covers Foo Fighters e Korn",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786680054/scraper/production/22001.jpg",
+    "data": "2026-08-30",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/childrenrockfestcoversfoofighterskornmanifesto"
+  },
+  {
+    "banda": "Festa de Audição - Álbum Shards",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1787025641/scraper/production/22067.jpg",
+    "data": "2026-08-30",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/festadeaudicao-albumshards"
+  },
+  {
+    "banda": "Sanctuary",
+    "logo_url": "a confirmar",
+    "data": "2026-08-30",
+    "local": "Burning House - São Paulo",
+    "link_ingresso": "https://www.ingressomaster.com/setores/62/sanctuary"
+  },
+  {
+    "banda": "Garage Fuzz",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196765/scraper/production/21836.jpg",
+    "data": "2026-09-02",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/garagefuzz-manifesto"
+  },
+  {
+    "banda": "Banda Live 80",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786593660/scraper/production/21968.jpg",
+    "data": "2026-09-03",
+    "local": "Manifesto - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/bandalive80-manifesto-03-09"
+  },
+  {
+    "banda": "Covers: Ozzy - Motorhead - ACDC",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786593659/scraper/production/21967.jpg",
+    "data": "2026-09-04",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/ozzymotorheadacdcmanifesto"
+  },
+  {
+    "banda": "Bloco Emo Brasil",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786420858/scraper/production/21936.jpg",
     "data": "2026-09-05",
-    "local": "[PLACEHOLDER] Casa de Shows Exemplo - São Paulo",
-    "link_ingresso": "https://exemplo.com/ingressos-1"
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blocoemobrasil"
   },
   {
-    "banda": "[PLACEHOLDER] Banda Exemplo Metal",
-    "logo_url": "https://via.placeholder.com/200x200.png?text=Banda+Metal",
-    "data": "2026-10-12",
-    "local": "[PLACEHOLDER] Arena Exemplo - São Paulo",
+    "banda": "Cover: Bon Jovi - These Days",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786680059/scraper/production/22003.jpg",
+    "data": "2026-09-05",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/cover-bonjovi-thesedays"
+  },
+  {
+    "banda": "System of a Down (Fuck The System) + Avenged Sevenfold (Fiction)",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786766463/scraper/production/22033.jpg",
+    "data": "2026-09-05",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/systemofadown-avengedsevenfold"
+  },
+  {
+    "banda": "Covers: Guns N Roses e Kiss",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786680058/scraper/production/22002.jpg",
+    "data": "2026-09-06",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/coversgunsnrosesekiss"
+  },
+  {
+    "banda": "Nova Twins em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196881/scraper/production/21889.jpg",
+    "data": "2026-09-06",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/nova-twins-em-sao-paulo/details"
+  },
+  {
+    "banda": "Machine Gun Kelly (MGK)",
+    "logo_url": "a confirmar",
+    "data": "2026-09-06",
+    "local": "Espaço Unimed - São Paulo",
     "link_ingresso": "a confirmar"
   },
   {
-    "banda": "[PLACEHOLDER] Banda Exemplo Thrash",
-    "logo_url": "https://via.placeholder.com/200x200.png?text=Thrash",
+    "banda": "Rammstein Symphonic Tribute",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780286544/scraper/production/21488.jpg",
+    "data": "2026-09-07",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/rammsteinsymphonictribute-sp"
+  },
+  {
+    "banda": "Nervosa em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196777/scraper/production/21841.jpg",
+    "data": "2026-09-07",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/nervosa-saopaulo"
+  },
+  {
+    "banda": "Paul Gilbert em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780977769/scraper/production/21680.jpg",
+    "data": "2026-09-08",
+    "local": "Fabrique Club - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/paulgilbert-saopaulo"
+  },
+  {
+    "banda": "Bloodbath / The Haunted / NervoChaos / Warshipper",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777608164/scraper/production/20781.jpg",
+    "data": "2026-09-08",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/bloodbath-thehaunted-nervochaos-warshipper-saopaulo"
+  },
+  {
+    "banda": "Sexta Rock Especial",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1787025644/scraper/production/22068.jpg",
+    "data": "2026-09-11",
+    "local": "Cervejazul Music Club - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/sextarockespecial-cervejazul"
+  },
+  {
+    "banda": "Pegada de Gorila - Monarca Bar",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196785/scraper/production/21843.jpg",
+    "data": "2026-09-11",
+    "local": "Monarca Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/pegadadegorila-monarca-bar"
+  },
+  {
+    "banda": "Os Extintos no Bar Charles",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196782/scraper/production/21842.jpg",
+    "data": "2026-09-11",
+    "local": "Bar Charles Edward - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/os-extintos-11-09"
+  },
+  {
+    "banda": "RANCORE",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196897/scraper/production/21901.jpg",
+    "data": "2026-09-11",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32684/rancore"
+  },
+  {
+    "banda": "LINKIN PARK (Zero) + KORN (Klowns)",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786766463/scraper/production/22032.jpg",
+    "data": "2026-09-12",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/linkinpark-korn"
+  },
+  {
+    "banda": "Touché Amoré Stage Four",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1768190581/scraper/production/17402.jpg",
+    "data": "2026-09-12",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/touche-amore-stage-four-2026-show-em-sao-paulo/details"
+  },
+  {
+    "banda": "Touché Amoré (Stage Four show) + Celeste",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196881/scraper/production/21890.jpg",
+    "data": "2026-09-12",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/touche-amore-stage-four-show-celeste-franca-em-sao-paulo/details"
+  },
+  {
+    "banda": "RANCORE",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196898/scraper/production/21902.jpg",
+    "data": "2026-09-12",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32684/rancore"
+  },
+  {
+    "banda": "Sicknot na Casa Lab",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196797/scraper/production/21845.jpg",
+    "data": "2026-09-13",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/sicknot-casalab"
+  },
+  {
+    "banda": "RANCORE",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196899/scraper/production/21903.jpg",
+    "data": "2026-09-13",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32684/rancore"
+  },
+  {
+    "banda": "Charles Edward apresenta: Double You",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786507260/scraper/production/21940.jpg",
+    "data": "2026-09-18",
+    "local": "Bar Charles Edward - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/charlesedwarddoubleyou"
+  },
+  {
+    "banda": "MY CHEMICAL ROMANCE (Cover Brasil) + GREEN DAY (Greeners Day) + BLINK 182 (Cover Brasil)",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786766468/scraper/production/22035.jpg",
+    "data": "2026-09-19",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/mychemicalromance-greenday-blink182"
+  },
+  {
+    "banda": "4 Anos da Banda Pulsos na Casa Lab",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196801/scraper/production/21846.jpg",
+    "data": "2026-09-19",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/4anos-bandapulsos-casalab"
+  },
+  {
+    "banda": "Nicotine Dolls",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777089761/scraper/production/20607.jpg",
+    "data": "2026-09-19",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/nicotine-dolls-em-sao-paulo/details"
+  },
+  {
+    "banda": "Elton John Diamonds",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777781141/scraper/production/20845.jpg",
+    "data": "2026-09-19",
+    "local": "Teatro Jardim Sul - São Paulo",
+    "link_ingresso": "https://www.sympla.com.br/evento/elton-john-diamonds/3409294"
+  },
+  {
+    "banda": "Helloween",
+    "logo_url": "a confirmar",
+    "data": "2026-09-19",
+    "local": "Suhai Music Hall - São Paulo",
+    "link_ingresso": "https://www.eventim.com.br/artist/helloween/"
+  },
+  {
+    "banda": "Landmvrks Latin America Tour 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1776571400/scraper/production/20420.jpg",
+    "data": "2026-09-20",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/landmvrks-saopaulo"
+  },
+  {
+    "banda": "Pholhas - 57 Anos de Sucesso",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196806/scraper/production/21848.jpg",
+    "data": "2026-09-20",
+    "local": "Clube Piratininga - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/pholhas-57anosdesucesso"
+  },
+  {
+    "banda": "Vitória Rock Fest 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780459364/scraper/production/21544.jpg",
+    "data": "2026-09-20",
+    "local": "Club RC - São Paulo (VERIFICAR: endereço extraído aponta para Copacabana/RJ)",
+    "link_ingresso": "https://www.sympla.com.br/evento/vitoria-rock-fest-2026/3450992"
+  },
+  {
+    "banda": "SAMIAM (EUA) + Garage Fuzz",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780977775/scraper/production/21682.jpg",
+    "data": "2026-09-25",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/samiam-eua-em-sao-paulo/details"
+  },
+  {
+    "banda": "Gravação Oficial do DVD - 5 Anos da Banda Totten",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196804/scraper/production/21847.jpg",
+    "data": "2026-09-25",
+    "local": "Bar Charles Edward - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/gravacaooficialdodvd-5anosbandatotten"
+  },
+  {
+    "banda": "Paramore – Emotour Experience no FFFront",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196808/scraper/production/21849.jpg",
+    "data": "2026-09-25",
+    "local": "FFFront - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/paramoreemotourexperience"
+  },
+  {
+    "banda": "Michale Graves - Acústico",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780372947/scraper/production/21508.jpg",
+    "data": "2026-09-26",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/michalegravesacustico"
+  },
+  {
+    "banda": "DIO (Heaven And Hell)",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786766471/scraper/production/22036.jpg",
+    "data": "2026-09-26",
+    "local": "Rooftop Galeria do Rock - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/dio"
+  },
+  {
+    "banda": "Petra & Whitecross",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1769054538/scraper/production/17665.jpg",
+    "data": "2026-09-26",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/petraewhitecross-saopaulo"
+  },
+  {
+    "banda": "Anette Olzon & Orquestra em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1761192085/scraper/production/16406.jpg",
+    "data": "2026-09-26",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/anette-olzon-saopaulo"
+  },
+  {
+    "banda": "Old Man's Child",
+    "logo_url": "a confirmar",
+    "data": "2026-09-26",
+    "local": "Burning House - São Paulo",
+    "link_ingresso": "https://101tickets.com.br/events/details/Old-Man-s-Child-em-Sao-Paulo-26-09"
+  },
+  {
+    "banda": "Woodstock 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786248054/scraper/production/21907.jpg",
+    "data": "2026-09-27",
+    "local": "Refúgio Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/woodstock2026"
+  },
+  {
+    "banda": "25 Anos Banda Manerada – Celebração Especial no Deck Bar",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786593667/scraper/production/21971.jpg",
+    "data": "2026-09-27",
+    "local": "Deck Bar São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/manerada-deckbar"
+  },
+  {
+    "banda": "Meet & Greet Angra",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778644937/scraper/production/21068.jpg",
+    "data": "2026-10-02",
+    "local": "Tokio Marine Hall - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/meetandgreet-angra-tokiomarinehall-02-10"
+  },
+  {
+    "banda": "These Days - Bon Jovi Cover",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1787025645/scraper/production/22069.jpg",
+    "data": "2026-10-02",
+    "local": "Bar Charles Edward - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/charlesedwardthesedaysbonjovicover"
+  },
+  {
+    "banda": "Meet & Greet Angra",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778644937/scraper/production/21069.jpg",
+    "data": "2026-10-03",
+    "local": "Tokio Marine Hall - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/meetandgreet-angra-tokiomarinehall-03-10"
+  },
+  {
+    "banda": "Babilônia Rita Lee Tributo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777781143/scraper/production/20846.jpg",
+    "data": "2026-10-03",
+    "local": "Teatro Jardim Sul - São Paulo",
+    "link_ingresso": "https://www.sympla.com.br/evento/babilonia-rita-lee-tributo/3409334"
+  },
+  {
+    "banda": "Sonata Arctica - 30th Anniversary Tour",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1771646597/scraper/production/18383.jpg",
+    "data": "2026-10-03",
+    "local": "Audio - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/sonataarctica"
+  },
+  {
+    "banda": "A Flock of Seagulls",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778040167/scraper/production/20913.jpg",
+    "data": "2026-10-07",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/a-flock-of-seagulls-em-sao-paulo/details"
+  },
+  {
+    "banda": "Fabio Lione & Orquestra em São Paulo - Sessão Extra",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777003360/scraper/production/20584.jpg",
+    "data": "2026-10-10",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/fabiolioneeorchestra-saopaulo-sessaoextra"
+  },
+  {
+    "banda": "Fabio Lione & Orquestra em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1/scraper/production/18055.jpg",
+    "data": "2026-10-10",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/fabiolioneeorchestra-saopaulo"
+  },
+  {
+    "banda": "Black Label Society - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779336137/scraper/production/21251.jpg",
+    "data": "2026-10-10",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacklabelsociety-saopaulo"
+  },
+  {
+    "banda": "Untune Fest II",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786593674/scraper/production/21972.jpg",
+    "data": "2026-10-11",
+    "local": "Casa Lab - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/untunefestiicasalab11-10"
+  },
+  {
+    "banda": "Dregen do Backyard Babies e The Hellacopters",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778558530/scraper/production/21040.jpg",
+    "data": "2026-10-11",
+    "local": "Manifesto Rock Bar - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/dregendobackyardbabies-thehellacopters"
+  },
+  {
+    "banda": "El Mato a un Policia Motorizado",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1781150539/scraper/production/21735.jpg",
+    "data": "2026-10-11",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/el-mato-a-un-policia-motorizado-em-sao-paulo/details"
+  },
+  {
+    "banda": "Zakk Sabbath no Carioca Club",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779336133/scraper/production/21246.jpg",
+    "data": "2026-10-11",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/zakksabbath-cariocaclub"
+  },
+  {
+    "banda": "Black Label Society - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779336138/scraper/production/21253.jpg",
+    "data": "2026-10-11",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacklabelsociety-saopaulo"
+  },
+  {
+    "banda": "Black Label Society - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779336139/scraper/production/21254.jpg",
+    "data": "2026-10-13",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacklabelsociety-saopaulo"
+  },
+  {
+    "banda": "Black Label Society - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779336139/scraper/production/21256.jpg",
+    "data": "2026-10-15",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacklabelsociety-saopaulo"
+  },
+  {
+    "banda": "Festival Hardcore São Paulo 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1775707370/scraper/production/20062.jpg",
+    "data": "2026-10-16",
+    "local": "R. Riachuelo, 194 - Sé - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/festival-hardcore-sao-paulo-2026/details"
+  },
+  {
+    "banda": "Apocalyptica em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779422543/scraper/production/21293.jpg",
+    "data": "2026-10-16",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/apocalyptica-saopaulo"
+  },
+  {
+    "banda": "The Gathering",
+    "logo_url": "a confirmar",
+    "data": "2026-10-16",
+    "local": "Audio - São Paulo",
+    "link_ingresso": "https://www.ticket360.com.br/evento/31662/ingressos-para-the-gathering-in-concert"
+  },
+  {
+    "banda": "After Forever",
+    "logo_url": "a confirmar",
+    "data": "2026-10-16",
+    "local": "Tokio Marine Hall - São Paulo",
+    "link_ingresso": "https://www.ticketmaster.com.br/event/after-forever-tokio-marine-hall"
+  },
+  {
+    "banda": "Mortiis",
+    "logo_url": "a confirmar",
+    "data": "2026-10-16",
+    "local": "La Iglesia - São Paulo",
+    "link_ingresso": "https://101tickets.com.br/events/details/Mortiis-em-Sao-Paulo-16-10-2026"
+  },
+  {
+    "banda": "Hellbutcher em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196826/scraper/production/21852.jpg",
+    "data": "2026-10-17",
+    "local": "Fabrique Club - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/hellbutcher-fabriqueclub"
+  },
+  {
+    "banda": "Black Label Society - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779336140/scraper/production/21259.jpg",
+    "data": "2026-10-17",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacklabelsociety-saopaulo"
+  },
+  {
+    "banda": "Hybrid Theory – Tour Brasil 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1774670595/scraper/production/19660.jpg",
+    "data": "2026-10-17",
+    "local": "Audio - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/hybridtheory2026-saopaulo"
+  },
+  {
+    "banda": "Between the Buried and Me",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1775707340/scraper/production/20053.jpg",
+    "data": "2026-10-17",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/between-the-buried-and-me-eua-em-sao-paulo/details"
+  },
+  {
+    "banda": "Festival Hardcore São Paulo 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1775707375/scraper/production/20063.jpg",
+    "data": "2026-10-17",
+    "local": "R. Riachuelo, 194 - Sé - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/festival-hardcore-sao-paulo-2026/details"
+  },
+  {
+    "banda": "Roy Khan - The Black Halo and Beyond",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778385782/scraper/production/21019.jpg",
+    "data": "2026-10-17",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/roykhan-theblackhaloandbeyond"
+  },
+  {
+    "banda": "Renato e Seus Blue Caps",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196830/scraper/production/21856.jpg",
+    "data": "2026-10-18",
+    "local": "Clube Piratininga - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/renatoeseusbluecaps-clubepiratininga"
+  },
+  {
+    "banda": "Black Label Society - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779336141/scraper/production/21261.jpg",
+    "data": "2026-10-18",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacklabelsociety-saopaulo"
+  },
+  {
+    "banda": "Amorphis em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1772769818/scraper/production/18897.jpg",
+    "data": "2026-10-18",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/amorphis-saopaulo"
+  },
+  {
+    "banda": "Festival Hardcore São Paulo 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1775707378/scraper/production/20065.jpg",
+    "data": "2026-10-18",
+    "local": "R. Riachuelo, 194 - Sé - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/festival-hardcore-sao-paulo-2026/details"
+  },
+  {
+    "banda": "Festival Hardcore São Paulo 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1775707379/scraper/production/20066.jpg",
+    "data": "2026-10-19",
+    "local": "R. Riachuelo, 194 - Sé - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/festival-hardcore-sao-paulo-2026/details"
+  },
+  {
+    "banda": "Black Label Society - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/v1779336141/scraper/production/21261.jpg",
+    "data": "2026-10-20",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/blacklabelsociety-saopaulo"
+  },
+  {
+    "banda": "Conexão Hardcore",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196895/scraper/production/21899.jpg",
+    "data": "2026-10-23",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32794/conexao-hardcore"
+  },
+  {
+    "banda": "KNEECAP",
+    "logo_url": "a confirmar",
+    "data": "2026-10-23",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://ingresse.com/kneecap-sp"
+  },
+  {
+    "banda": "Malevolent Creation (EUA) e Mystic Circle (Alemanha) em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780632164/scraper/production/21576.jpg",
+    "data": "2026-10-24",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/malevolent-creation-eua-e-mystic-circle-alemanha-em-sao-paulo/details"
+  },
+  {
+    "banda": "Fit For A King",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1775880166/scraper/production/20126.jpg",
+    "data": "2026-10-25",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/fitforaking-sp"
+  },
+  {
+    "banda": "Iron Maiden",
+    "logo_url": "a confirmar",
+    "data": "2026-10-25",
+    "local": "Allianz Parque - São Paulo",
+    "link_ingresso": "a confirmar (esgotado)"
+  },
+  {
+    "banda": "Tigers Jaw (EUA) em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778990570/scraper/production/21170.jpg",
+    "data": "2026-10-26",
+    "local": "Praça Carlos Gomes, 82 - Liberdade - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/tigers-jaw-eua-em-sao-paulo/details"
+  },
+  {
+    "banda": "Iron Maiden Para Crianças",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196833/scraper/production/21857.jpg",
+    "data": "2026-10-26",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/ironmaidenparacriancas-saopaulo"
+  },
+  {
+    "banda": "Iron Maiden",
+    "logo_url": "a confirmar",
+    "data": "2026-10-27",
+    "local": "Allianz Parque - São Paulo",
+    "link_ingresso": "https://www.livepass.com.br/campaign/ironmaiden"
+  },
+  {
+    "banda": "Trick or Hardcore Fest",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196887/scraper/production/21894.jpg",
+    "data": "2026-10-31",
+    "local": "Espaço Usine - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/h2o-eua-e-downset-eua-em-sao-paulo/details"
+  },
+  {
+    "banda": "Fishbone em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1779854545/scraper/production/21384.jpg",
+    "data": "2026-10-31",
+    "local": "Fabrique Club - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/fishbone-em-sao-paulo/details"
+  },
+  {
+    "banda": "The Rasmus",
+    "logo_url": "a confirmar",
+    "data": "2026-10-31",
+    "local": "Carioca Club - São Paulo",
+    "link_ingresso": "https://uhuu.com/evento/sp/sao-paulo/the-rasmus-16309"
+  },
+  {
+    "banda": "Six Feet Under",
+    "logo_url": "a confirmar",
     "data": "2026-11-01",
-    "local": "[PLACEHOLDER] Clube Exemplo - São Paulo",
-    "link_ingresso": "https://exemplo.com/ingressos-3"
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://101tickets.com.br/events/details/Six-Feet-Under-em-Sao-Paulo-01-nov"
   },
   {
-    "banda": "[PLACEHOLDER] Banda Exemplo Punk",
-    "logo_url": "https://via.placeholder.com/200x200.png?text=Punk",
-    "data": "2026-12-20",
-    "local": "[PLACEHOLDER] Teatro Exemplo - São Paulo",
-    "link_ingresso": "https://exemplo.com/ingressos-4"
+    "banda": "Ronnie Wood",
+    "logo_url": "a confirmar",
+    "data": "2026-11-01",
+    "local": "Allianz Parque - São Paulo",
+    "link_ingresso": "https://www.eventim.com.br/artist/ronniewood/"
   },
   {
-    "banda": "[PLACEHOLDER] Banda Exemplo Doom",
-    "logo_url": "https://via.placeholder.com/200x200.png?text=Doom",
-    "data": "2027-01-15",
-    "local": "a confirmar",
-    "link_ingresso": "a confirmar"
+    "banda": "Post Punk Brasil apresenta: PLOHO (Rússia)",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1780718606/scraper/production/21614.jpg",
+    "data": "2026-11-02",
+    "local": "Madame Underground Club - São Paulo",
+    "link_ingresso": "https://www.sympla.com.br/evento/post-punk-brasil-apresenta-ploho-russia/3455333"
+  },
+  {
+    "banda": "Rogério Skylab em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196838/scraper/production/21858.jpg",
+    "data": "2026-11-06",
+    "local": "Carioca Club - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/rogerioskylab-cariocaclub"
+  },
+  {
+    "banda": "Opeth",
+    "logo_url": "a confirmar",
+    "data": "2026-11-06",
+    "local": "Espaço Unimed - São Paulo",
+    "link_ingresso": "https://www.eventim.com.br/artist/opeth/"
+  },
+  {
+    "banda": "The White Buffalo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1769572966/scraper/production/17769.jpg",
+    "data": "2026-11-07",
+    "local": "Audio - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/the-white-buffalo-em-sao-paulo/details"
+  },
+  {
+    "banda": "Marty Friedman em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196842/scraper/production/21861.jpg",
+    "data": "2026-11-11",
+    "local": "Manifesto - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/martyfriedman-saopaulo"
+  },
+  {
+    "banda": "Social Distortion",
+    "logo_url": "a confirmar",
+    "data": "2026-11-14",
+    "local": "Vibra - São Paulo",
+    "link_ingresso": "https://101tickets.com.br/events/details/Social-Distortion-SP-2026-11-14"
+  },
+  {
+    "banda": "Newcore Festival 2026",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196845/scraper/production/21864.jpg",
+    "data": "2026-11-15",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/newcorefest2026"
+  },
+  {
+    "banda": "Best of Blues and Rock 2026 (20 a 22/nov)",
+    "logo_url": "a confirmar",
+    "data": "2026-11-20",
+    "local": "Parque Ibirapuera - São Paulo",
+    "link_ingresso": "https://www.ticketmaster.com.br/event/best-of-blues-and-rock-2026"
+  },
+  {
+    "banda": "ZZ Top",
+    "logo_url": "a confirmar",
+    "data": "2026-11-21",
+    "local": "Suhai Music Hall - São Paulo",
+    "link_ingresso": "https://uhuu.com/evento/sp/sao-paulo/zz-top-brazil-2026-sao-paulo-16112"
+  },
+  {
+    "banda": "Roxette UK - The Tribute Show",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196846/scraper/production/21865.jpg",
+    "data": "2026-11-22",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/roxete-carioca"
+  },
+  {
+    "banda": "Johnny Marr",
+    "logo_url": "a confirmar",
+    "data": "2026-11-24",
+    "local": "Tokio Marine Hall - São Paulo",
+    "link_ingresso": "https://meaple.com.br/balaclava/johnny-marr-em-sao-paulo"
+  },
+  {
+    "banda": "Babymetal",
+    "logo_url": "a confirmar",
+    "data": "2026-11-28",
+    "local": "Espaço Unimed - São Paulo",
+    "link_ingresso": "https://www.eventim.com.br/BABYMETAL"
+  },
+  {
+    "banda": "Militarie Gun",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196889/scraper/production/21896.jpg",
+    "data": "2026-11-29",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/militarie-gun-eua-em-sao-paulo/details"
+  },
+  {
+    "banda": "Bruno Sutter Executa Iron Maiden! Comemorando 50 Anos da Banda",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778817757/scraper/production/21142.jpg",
+    "data": "2026-12-04",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/brunosutter-ironmaiden-comemorando50anosdabanda"
+  },
+  {
+    "banda": "Bride em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1/scraper/production/20961.jpg",
+    "data": "2026-12-05",
+    "local": "Burning House - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/bride-saopaulo"
+  },
+  {
+    "banda": "Mukeka Di Rato",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196895/scraper/production/21900.jpg",
+    "data": "2026-12-05",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32797/mukeka-di-rato"
+  },
+  {
+    "banda": "Tarja Turunen - The Spirit of Christmas",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1771473742/scraper/production/18276.jpg",
+    "data": "2026-12-05",
+    "local": "Terra SP - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/tarjaturunen"
+  },
+  {
+    "banda": "Primavera Sound São Paulo 2026 (5 a 6/dez)",
+    "logo_url": "a confirmar",
+    "data": "2026-12-05",
+    "local": "Autódromo de Interlagos - São Paulo",
+    "link_ingresso": "a confirmar (ingressos em breve)"
+  },
+  {
+    "banda": "Deep Purple",
+    "logo_url": "a confirmar",
+    "data": "2026-12-05",
+    "local": "Suhai Music Hall - São Paulo",
+    "link_ingresso": "https://app.cse360.com.br/www.eventim.com.br/deep-purple"
+  },
+  {
+    "banda": "Testament em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778299381/scraper/production/20994.jpg",
+    "data": "2026-12-06",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/testament-saopaulo"
+  },
+  {
+    "banda": "Youth of Today",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777348931/scraper/production/20697.jpg",
+    "data": "2026-12-12",
+    "local": "Fabrique Club - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/youth-of-today-eua-em-sao-paulo/details"
+  },
+  {
+    "banda": "Liberation Festival 2026",
+    "logo_url": "a confirmar",
+    "data": "2026-12-12",
+    "local": "Vibra - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/liberationfest2026"
+  },
+  {
+    "banda": "Verão Caos - 2ª Edição",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1781150541/scraper/production/21739.jpg",
+    "data": "2026-12-13",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://pixelticket.com.br/eventos/32403/verao-caos-2-edicao"
+  },
+  {
+    "banda": "Slayer",
+    "logo_url": "a confirmar",
+    "data": "2026-12-17",
+    "local": "Allianz Parque - São Paulo",
+    "link_ingresso": "https://www.livepass.com.br/"
+  },
+  {
+    "banda": "Avatar em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786507260/scraper/production/21939.jpg",
+    "data": "2027-01-10",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/avatar-cariocaclub"
+  },
+  {
+    "banda": "Dio Symphonic Tribute",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196850/scraper/production/21867.jpg",
+    "data": "2027-01-16",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/diosymphonictribute-saopaulo"
+  },
+  {
+    "banda": "The Symphony of Expedition 33 em São Paulo - Sessão Extra 17h00",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1778126545/scraper/production/20942.jpg",
+    "data": "2027-01-23",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/thesymphonyofexpedition33-saopauloextra"
+  },
+  {
+    "banda": "The Symphony of Expedition 33 em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1777435341/scraper/production/20724.jpg",
+    "data": "2027-01-23",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/thesymphonyofexpedition33-saopaulo"
+  },
+  {
+    "banda": "Alcest",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196851/scraper/production/21869.jpg",
+    "data": "2027-02-20",
+    "local": "Carioca Club Pinheiros - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/alcestemsaopaulo"
+  },
+  {
+    "banda": "Mortification em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1776917110/scraper/production/20546.jpg",
+    "data": "2027-02-20",
+    "local": "Burning House - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/mortification-saopaulo"
+  },
+  {
+    "banda": "Buffalo Tom",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1773461017/scraper/production/19166.jpg",
+    "data": "2027-02-25",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/buffalo-tom-em-sao-paulo/details"
+  },
+  {
+    "banda": "Buffalo Tom",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1773461018/scraper/production/19168.jpg",
+    "data": "2027-02-27",
+    "local": "Cine Joia - São Paulo",
+    "link_ingresso": "https://fastix.com.br/api/events/buffalo-tom-em-sao-paulo/details"
+  },
+  {
+    "banda": "Eleine em São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786248052/scraper/production/21905.jpg",
+    "data": "2027-02-28",
+    "local": "Hangar 110 - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/eleine-saopaulo"
+  },
+  {
+    "banda": "King Diamond Symphonic Tribute",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786248052/scraper/production/21906.jpg",
+    "data": "2027-03-20",
+    "local": "Teatro APCD - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/kingdiamondsymphonictribute-saopaulo"
+  },
+  {
+    "banda": "Hybrid Theory – Tour Brasil 2027 - São Paulo",
+    "logo_url": "http://res.cloudinary.com/carlosep/image/upload/q_auto,f_auto,w_800,c_scale/v1786196856/scraper/production/21870.jpg",
+    "data": "2027-04-02",
+    "local": "Audio - São Paulo",
+    "link_ingresso": "https://www.clubedoingresso.com/evento/hybridtheory2027-saopaulo"
   }
 ]
