@@ -1,0 +1,37 @@
+[
+  {
+    "banda": "[PLACEHOLDER] Banda Exemplo Rock",
+    "logo_url": "https://via.placeholder.com/200x200.png?text=Banda+Exemplo",
+    "data": "2026-09-05",
+    "local": "[PLACEHOLDER] Casa de Shows Exemplo - São Paulo",
+    "link_ingresso": "https://exemplo.com/ingressos-1"
+  },
+  {
+    "banda": "[PLACEHOLDER] Banda Exemplo Metal",
+    "logo_url": "https://via.placeholder.com/200x200.png?text=Banda+Metal",
+    "data": "2026-10-12",
+    "local": "[PLACEHOLDER] Arena Exemplo - São Paulo",
+    "link_ingresso": "a confirmar"
+  },
+  {
+    "banda": "[PLACEHOLDER] Banda Exemplo Thrash",
+    "logo_url": "https://via.placeholder.com/200x200.png?text=Thrash",
+    "data": "2026-11-01",
+    "local": "[PLACEHOLDER] Clube Exemplo - São Paulo",
+    "link_ingresso": "https://exemplo.com/ingressos-3"
+  },
+  {
+    "banda": "[PLACEHOLDER] Banda Exemplo Punk",
+    "logo_url": "https://via.placeholder.com/200x200.png?text=Punk",
+    "data": "2026-12-20",
+    "local": "[PLACEHOLDER] Teatro Exemplo - São Paulo",
+    "link_ingresso": "https://exemplo.com/ingressos-4"
+  },
+  {
+    "banda": "[PLACEHOLDER] Banda Exemplo Doom",
+    "logo_url": "https://via.placeholder.com/200x200.png?text=Doom",
+    "data": "2027-01-15",
+    "local": "a confirmar",
+    "link_ingresso": "a confirmar"
+  }
+]

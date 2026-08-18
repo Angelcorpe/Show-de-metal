@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Show de Metal — Agenda Rock &amp; Metal SP</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>🤘 Show de Metal</h1>
+    <p class="subtitle">Agenda de shows de rock e metal na cidade de São Paulo</p>
+  </header>
+
+  <main>
+    <section class="filters">
+      <label for="filter-start">De:</label>
+      <input type="date" id="filter-start" />
+
+      <label for="filter-end">Até:</label>
+      <input type="date" id="filter-end" />
+
+      <button id="filter-clear" type="button">Limpar filtro</button>
+    </section>
+
+    <section id="shows-list" class="shows-list">
+      <!-- Cards de shows são renderizados aqui via js/app.js -->
+    </section>
+
+    <p id="empty-message" class="empty-message" hidden>
+      Nenhum show encontrado para o período selecionado.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <p>Dados atualizados manualmente a partir de Heavy.Events e Wikimetal. Veja o README para detalhes.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
