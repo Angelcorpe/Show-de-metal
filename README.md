@@ -30,9 +30,12 @@ Cada show é um objeto com os campos:
   "logo_url": "https://...",
   "data": "AAAA-MM-DD",
   "local": "Nome da casa de show - São Paulo",
-  "link_ingresso": "https://... ou 'a confirmar'"
+  "link_ingresso": "https://... ou 'a confirmar'",
+  "subgenero": "Heavy Metal, Thrash Metal, Tributo/Cover, A confirmar, etc."
 }
 ```
+
+- `subgenero` alimenta o filtro de subgênero no site. Diferente dos outros campos, **não vem das fontes** (Heavy.Events/Wikimetal não classificam gênero) — é atribuído por conhecimento geral sobre a atração. Quando não há confiança na classificação (comum em shows de bar com line-up pouco conhecido), o valor é `"A confirmar"`.
 
 - `data` deve estar no formato ISO (`AAAA-MM-DD`) para permitir ordenação e filtro corretos.
 - Quando um dado ainda não está disponível, use a string `"a confirmar"` no campo correspondente (não deixe o campo ausente nem invente informação).
@@ -75,5 +78,11 @@ python3 -m http.server 8000
 ## Funcionalidades
 
 - Lista de shows ordenada por data (mais próximos primeiro).
-- Cada card exibe: logo/imagem da banda, data do show e link/informação de ingresso.
-- Filtro por período de data (De / Até), com botão para limpar o filtro.
+- Cada card exibe: logo/imagem da banda, data do show, local, subgênero e link/informação de ingresso.
+- Filtro por período de data (De / Até) e por subgênero, com botão para limpar os filtros.
+
+## Publicação
+
+Site publicado via GitHub Pages a partir desta branch: https://angelcorpe.github.io/Show-de-metal/
+
+Uma rotina automática roda a cada ~15 dias (dias 1 e 16 do mês), buscando atualizações em Heavy.Events e Wikimetal, atualizando `data/shows.json` e fazendo push direto nesta branch — o que atualiza o site automaticamente, já que ele lê o JSON em tempo real.

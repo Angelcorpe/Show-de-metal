@@ -6,6 +6,7 @@ const listEl = document.getElementById("shows-list");
 const emptyMessageEl = document.getElementById("empty-message");
 const filterStartEl = document.getElementById("filter-start");
 const filterEndEl = document.getElementById("filter-end");
+const filterGenreEl = document.getElementById("filter-genre");
 const filterClearBtn = document.getElementById("filter-clear");
 
 function escapeHtml(value) {
@@ -48,6 +49,7 @@ function renderShows(shows) {
         <h2>${escapeHtml(show.banda)}</h2>
         <div class="show-date">${formatDate(show.data)}</div>
         <div class="show-local">${escapeHtml(show.local || "Local a confirmar")}</div>
+        <div class="show-genre">${escapeHtml(show.subgenero || "A confirmar")}</div>
         <div class="show-ticket">${ticketHtml}</div>
       </div>
     `;
@@ -59,15 +61,29 @@ function renderShows(shows) {
 function applyFilters() {
   const start = filterStartEl.value;
   const end = filterEndEl.value;
+  const genre = filterGenreEl.value;
 
   const filtered = allShows.filter((show) => {
-    if (!show.data) return true;
-    if (start && show.data < start) return false;
-    if (end && show.data > end) return false;
+    if (start && show.data && show.data < start) return false;
+    if (end && show.data && show.data > end) return false;
+    if (genre && show.subgenero !== genre) return false;
     return true;
   });
 
   renderShows(filtered);
+}
+
+function populateGenreFilter(shows) {
+  const genres = [...new Set(shows.map((show) => show.subgenero).filter(Boolean))].sort(
+    (a, b) => a.localeCompare(b, "pt-BR")
+  );
+
+  for (const genre of genres) {
+    const option = document.createElement("option");
+    option.value = genre;
+    option.textContent = genre;
+    filterGenreEl.appendChild(option);
+  }
 }
 
 function sortByDate(shows) {
@@ -83,6 +99,7 @@ async function loadShows() {
     const response = await fetch(SHOWS_URL);
     const data = await response.json();
     allShows = sortByDate(data);
+    populateGenreFilter(allShows);
     renderShows(allShows);
   } catch (error) {
     listEl.innerHTML = "";
@@ -94,9 +111,11 @@ async function loadShows() {
 
 filterStartEl.addEventListener("change", applyFilters);
 filterEndEl.addEventListener("change", applyFilters);
+filterGenreEl.addEventListener("change", applyFilters);
 filterClearBtn.addEventListener("click", () => {
   filterStartEl.value = "";
   filterEndEl.value = "";
+  filterGenreEl.value = "";
   applyFilters();
 });
 
